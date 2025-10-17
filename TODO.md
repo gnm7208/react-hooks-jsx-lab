@@ -1,0 +1,4 @@
+- [x] Update NavBar.js JSX
+- [x] Update Home.js JSX
+- [x] Update About.js JSX
+- [x] Run npm test
